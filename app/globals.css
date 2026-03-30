@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Minimalist Luxury White Palette */
+  --color-bg-primary:   #FFFFFF;
+  --color-bg-secondary: #F8F8F8;
+  --color-bg-card:      #F3F3F3;
+  --color-bg-elevated:  #FFFFFF;
+
+  /* Architectural Accents */
+  --color-gold:         #b5955c; 
+  --color-gold-light:   #d1b888;
+  --color-gold-dark:    #8f7442;
+
+  /* High Contrast Text */
+  --color-text-primary:   #111111;
+  --color-text-secondary: #555555;
+  --color-text-muted:     #888888;
+
+  /* Crisp distinct borders */
+  --color-border:         rgba(0, 0, 0, 0.08);
+  --color-border-gold:    rgba(181, 149, 92, 0.3);
+
+  /* Fonts */
+  --font-sans:     "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-display:  "Space Grotesk", system-ui, sans-serif;
+}
+
+/* ═══════════════════════════════════════════════
+   BASE RESET & TYPOGRAPHY
+   ═══════════════════════════════════════════════ */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  overflow-x: hidden;
+  letter-spacing: -0.01em;
+}
+
+/* High contrast tech-typography */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+  font-weight: 700 !important; /* Bold, strong headers */
+  color: var(--color-text-primary);
+}
+
+/* ═══════════════════════════════════════════════
+   REFINED TEXT EFFECTS
+   ═══════════════════════════════════════════════ */
+.text-gradient-gold {
+  color: var(--color-gold);
+}
+
+/* ═══════════════════════════════════════════════
+   ARCHITECTURAL LINES
+   ═══════════════════════════════════════════════ */
+.gold-line {
+  height: 2px;
+  background: var(--color-gold);
+  width: 40px !important;
+  position: relative;
+}
+
+/* ═══════════════════════════════════════════════
+   PREMIUM BUTTONS
+   ═══════════════════════════════════════════════ */
+.btn-gold {
+  background: #111111;
+  color: #ffffff;
+  border: 1px solid #111111;
+  border-radius: 4px; 
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease;
+  padding: 0.75rem 1.5rem;
+}
+
+.btn-gold:hover {
+  background: var(--color-gold);
+  border-color: var(--color-gold);
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(181, 149, 92, 0.2);
+}
+
+/* ═══════════════════════════════════════════════
+   CLEAN METRIC CARDS
+   ═══════════════════════════════════════════════ */
+.glass-card {
+  background: #FFFFFF;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+}
+
+.glass-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.06);
+  border-color: rgba(0,0,0,0.15);
+}
+
+/* ═══════════════════════════════════════════════
+   NAVBAR - Ultra Clean Light Mode
+   ═══════════════════════════════════════════════ */
+.navbar-glass {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* ═══════════════════════════════════════════════
+   SECTION SPACING
+   ═══════════════════════════════════════════════ */
+.section-padding {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+}
+
+/* Clean forms */
+input, textarea, select {
+  background: #F8F8F8;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  color: #111111;
+  transition: all 0.3s ease;
+}
+input:focus, textarea:focus, select:focus {
+  border-color: var(--color-gold);
+  background: #FFFFFF;
+  box-shadow: 0 0 0 3px rgba(181, 149, 92, 0.1);
+  outline: none;
+}

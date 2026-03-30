@@ -1,0 +1,370 @@
+Here are all three pages — homepage, about us, and areas we cover — written from scratch:
+
+Homepage | Sparta Coatings
+Meta Title (57 characters)
+text
+Professional Spray Coating Services UK | Sparta Coatings
+Meta Description (158 characters)
+text
+Sparta Coatings — professional spray painting for cladding, kitchens, UPVC, roofs & more. Approved applicators. South England & UK-wide. Get a free quote today.
+Hero Section
+The UK's Specialist On-Site Spray Coating Contractors
+Transforming homes and commercial buildings with factory-quality finishes — from just £150
+
+Whether you need a kitchen refreshed, a cladding system restored, a metal roof protected, or a warehouse repainted — Sparta Coatings deliver professional, durable, manufacturer-approved coating systems on-site, with minimal disruption, and backed by warranties of up to 25 years.
+
+[Get a Free Quote] [View Our Services] [Call Us Now]
+
+Trust Bar (immediately below the hero)
+✅ 10+ Years Industry Experience | ✅ Approved Applicators — HD Sharmans · Giromax · Liquisil · Kolorbond · Tikkurila | ✅ Manufacturer Warranties Up To 25 Years | ✅ Fully Insured | ✅ Free Surveys UK-Wide | ✅ 5★ Rated
+
+What We Do
+Sparta Coatings are specialist on-site spray coating contractors covering the South of England and the wider UK. We work across residential, commercial, and industrial properties — delivering professional coating systems for every surface type, from a single kitchen to an entire industrial building elevation.
+
+Every project we take on is carried out using only the correct, substrate-specific products from the UK's most trusted manufacturers. We are approved applicators for the market-leading systems in every category we work in — meaning every job comes with a manufacturer-backed warranty, not just our word.
+
+Our Services
+Residential
+Kitchen Cabinet Spraying — From £975 | Tikkurila Helmi & Morrells systems 
+
+UPVC Window Spraying — From £275 | Kolorbond approved applicators 
+
+UPVC Door Spraying — From £375 | Kolorbond approved applicators 
+
+Conservatory Spraying — From £1,199 | Full frame and roof systems 
+
+Garage Door Spraying — From £850 | All materials, any colour 
+
+Fascia & Soffit Spraying — From £75/m | Nationwide 
+
+Gutter Spraying — From £69.99/m | UPVC and cast iron 
+
+House Exterior Spraying — From £50/m² | Full exterior coatings 
+
+Fence & Gate Spraying — From £69.99/m² | All metals, rust treatment included 
+
+Ceiling Spraying — From £150 | Domestic & commercial 
+
+Commercial & Industrial
+Cladding Spraying — From £50/m² | Temadur, Giromax & Liquisil systems 
+
+Metal Roof Coating — From £99/m² | BBA-certified systems, 20-year warranties 
+
+Warehouse & Industrial Spraying — From £75/m² | ISO 12944-compliant 
+
+Shop Front Spraying — POA | All materials, out-of-hours available 
+
+Steelwork Spraying — From £75/m² | Jotun, Sherwin-Williams, DFT-verified 
+
+Lift Door Spraying — From £299 | Stainless steel, overnight service 
+
+[View All Services →]
+
+Why Choose Sparta Coatings?
+Approved Applicators — Not Just Contractors
+We are manufacturer-approved applicators for the UK's leading coating systems in every category we work in. That means manufacturer-issued warranties on your project — not just the contractor's guarantee.
+
+Substrate-Specific Products — Every Time
+Every surface we coat receives the correct, purpose-formulated product for that exact substrate. We never use a one-size-fits-all approach — cladding gets cladding coatings, kitchens get kitchen coatings, and UPVC gets Kolorbond. This is the foundation of every project we carry out.
+
+Warranties Up To 25 Years
+Our approved coating systems carry manufacturer warranties ranging from 10 to 25 years depending on the product and substrate — providing long-term peace of mind on every project we deliver.
+
+Fully Insured & Compliant
+All projects are supported by full public liability insurance, COSHH assessments, method statements, and HSE-compliant working-at-height procedures as standard.
+
+South England & UK-Wide
+Based in the South of England, we operate across the wider UK for commercial, industrial, and large residential projects. Contact us to confirm coverage for your area.
+
+Approved Applicators For
+Manufacturer	Systems
+HD Sharmans	Temadur 20 / 50 Cladding Systems, Seamsil Cut-Edge 
+Giromax	BBA-Certified Polymer Hybrid Cladding & Roof Coatings 
+Liquisil	25-Year Silicone Metal Coating Systems 
+Kolorbond	UPVC Window, Door, Conservatory & Fascia Systems 
+Tikkurila	Helmi Kitchen Lacquers, Interior & Exterior Coatings 
+Jotun	Structural Steelwork & Industrial Coating Systems 
+Sherwin-Williams	Industrial, Commercial & Fire Protection Systems 
+Rust-Oleum / Mathys	Noxyde, CombiColor, Hard Hat Systems 
+Recent Projects
+(Gallery section — insert project images here)
+
+Office cladding refurbishment — Hampshire
+
+Kitchen respray in Farrow & Ball Mole's Breath — West Sussex
+
+Metal roof coating — Surrey industrial estate
+
+UPVC window respray Anthracite Grey — Portsmouth
+
+Warehouse exterior, 4,200m² — Eastleigh
+
+[View Full Portfolio →]
+
+What Our Customers Say
+"The team were professional from survey to sign-off. The cladding looks brand new — you'd never know it hadn't been replaced. The Temadur system they specified has a 10-year warranty and we saved over £40,000 versus re-cladding."
+— Facilities Manager, Hampshire Business Park
+
+"Our kitchen has been transformed. The Helmi finish is incredibly smooth and the colour matching to our Farrow & Ball reference was spot on. Barely any disruption — done in two days."
+— Homeowner, West Sussex
+
+"Sparta Coatings handled our entire warehouse elevation — 3,800m² of profiled steel cladding. On time, on budget, and the result was exceptional."
+— Operations Director, Surrey
+
+[Read More Reviews →]
+
+Get a Free, No-Obligation Quote
+Tell us about your project and we'll get back to you within 24 hours with a free, no-obligation survey booking.
+
+[Name] [Email] [Phone] [Service Required ▼] [Tell us about your project]
+
+[Request Your Free Quote →]
+
+Or call us direct: [Phone Number]
+
+Organisation Schema
+json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sparta Coatings",
+  "description": "Specialist on-site spray coating contractors covering the South of England and wider UK. Approved applicators for HD Sharmans, Giromax, Liquisil, Kolorbond, Tikkurila and more.",
+  "url": "https://www.spartacoatings.co.uk",
+  "areaServed": "United Kingdom",
+  "serviceType": [
+    "Cladding Spraying",
+    "Kitchen Cabinet Spraying",
+    "UPVC Window Spraying",
+    "UPVC Door Spraying",
+    "Metal Roof Coating",
+    "Warehouse Spraying",
+    "Steelwork Spraying",
+    "Fence & Gate Spraying",
+    "Shop Front Spraying",
+    "Ceiling Spraying",
+    "Lift Door Spraying"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Spray Coating Services"
+  }
+}
+</script>
+About Us | Sparta Coatings
+Meta Title (50 characters)
+text
+About Sparta Coatings | Specialist Spray Contractors
+Meta Description (158 characters)
+text
+Sparta Coatings are specialist spray coating contractors with 10+ years' experience. Approved applicators for HD Sharmans, Kolorbond, Tikkurila & more. Learn more.
+About Sparta Coatings
+We are specialist on-site spray coating contractors with over 10 years of experience delivering professional, manufacturer-approved coating systems to residential, commercial, and industrial properties across the South of England and the wider UK.
+
+We are not painters and decorators. We are specialist coating contractors — and there is a significant difference. Every surface we coat receives the correct, purpose-formulated product for that exact substrate, applied using professional airless or HVLP spray equipment by trained, experienced applicators who understand the science behind what they're doing as well as the craft.
+
+Our Story
+Sparta Coatings was founded on a single principle: that the UK's spray coating industry deserved a contractor that truly understood the products it was applying. Too many projects fail — coatings delaminate, peel, or fail prematurely — not because the products aren't good enough, but because the wrong product was used on the wrong substrate, or the preparation wasn't carried out correctly.
+
+We set out to build a business where that never happens. Every project we take on is preceded by a proper condition survey. Every coating system is specified correctly for the substrate, environment, and required service life. Every stage of preparation is carried out to the appropriate standard. And every project is signed off with the manufacturer warranty the client was promised at the start.
+
+That commitment has earned us approved applicator status with the UK's leading coating manufacturers — including HD Sharmans, Giromax, Liquisil, Kolorbond, Tikkurila, Jotun, Sherwin-Williams, Rust-Oleum Mathys, and others. It has also earned us the trust of facilities managers, property developers, house builders, commercial landlords, and homeowners who come back to us project after project.
+
+What Makes Us Different
+Approved Applicator Status
+We hold approved applicator status with the UK's leading coating manufacturers across every category we work in. This means every project is not just guaranteed by us — it's warranted by the manufacturer.
+
+Substrate-First Approach
+Most spraying contractors use the same products across all surfaces. We don't. UPVC windows get Kolorbond. Kitchen cabinets get Tikkurila Helmi or Morrells. Cladding gets Temadur 20, Giromax, or Liquisil. Steel gets Jotun or Sherwin-Williams. The correct product for the correct surface — every time, without exception.
+
+ISO 12944-Compliant Industrial Coatings
+For commercial and industrial projects, every coating system is specified to the correct ISO 12944 corrosivity category for the building's environment — ensuring the protection level matches the exposure conditions your building actually faces.
+
+Full Documentation on Every Project
+Every Sparta Coatings project — however large or small — is supported by a method statement, COSHH assessment, surface preparation records, DFT (dry film thickness) readings where applicable, and a full sign-off document. Not because we have to, but because we believe our clients deserve to know exactly what was done to their building and to what standard.
+
+Safety Without Compromise
+All working-at-height operations are carried out in full compliance with the Work at Height Regulations 2005. We never work without appropriate access equipment, edge protection, and documented risk assessments — and we never cut corners on safety to save time.
+
+Our Approved Applicator Status
+Being an approved applicator is not simply about which products we buy — it requires training, assessment, and ongoing compliance with the manufacturer's specified application processes. Our approved applicator relationships include:
+
+HD Sharmans — Temadur 20/50 wall cladding systems; Seamsil cut-edge corrosion systems
+
+Giromax — BBA-certified polymer hybrid cladding and roof coating systems
+
+Liquisil — 25-year guaranteed silicone metal coating and roof systems
+
+Kolorbond — UPVC window, door, conservatory, fascia, and soffit coating systems
+
+Tikkurila — Helmi kitchen and furniture lacquers; Otex Akva adhesion systems
+
+Jotun — Industrial and structural steelwork coating systems
+
+Sherwin-Williams — Industrial, commercial, and intumescent fire protection systems
+
+Rust-Oleum / Mathys — Noxyde, CombiColor, Hard Hat, and Damp-Proof systems
+
+Our Team
+Sparta Coatings is built on the quality of its people. Every applicator who works on your project is trained, experienced, and genuinely cares about the quality of the finished result. We believe the preparation stage is where great finishes are made or lost — and our team treat it with the same care and attention as the spraying itself.
+
+Our management team brings together expertise in:
+
+Professional spray coating application and technique
+
+Industrial and commercial coating specification
+
+Project management and client communication
+
+Working at height and site safety compliance
+
+Manufacturer-approved application processes
+
+Our Commitment to You
+Every Sparta Coatings client receives the same commitment, regardless of the size of their project:
+
+An honest survey — We tell you exactly what your surface needs and what it will cost, with no hidden extras
+
+The correct product — We specify and apply the right coating system for your exact substrate
+
+Professional preparation — Every surface is prepared to the standard required by the manufacturer
+
+Transparent documentation — You receive a full record of what was done to your property
+
+A warranty you can rely on — Manufacturer-issued, not just a verbal promise
+
+Accreditations & Approvals
+✅ HD Sharmans Approved Applicator
+
+✅ Giromax Approved Applicator
+
+✅ Liquisil Approved Applicator
+
+✅ Kolorbond Approved Applicator
+
+✅ Public Liability Insurance — £X,000,000 cover (insert value)
+
+✅ CHAS / SafeContractor Accredited (if applicable — insert)
+
+✅ HSE Working at Height Regulations 2005 compliant
+
+✅ COSHH assessment issued on all projects
+
+Get In Touch
+We'd love to hear about your project. Whether it's a single kitchen, a multi-storey commercial building, or anything in between — get in touch for a free, no-obligation survey and written specification.
+
+[Request a Free Survey →] [Call Us Now]
+
+Areas We Cover | Sparta Coatings
+Meta Title (57 characters)
+text
+Areas We Cover | Spray Coating Services | Sparta Coatings
+Meta Description (158 characters)
+text
+Sparta Coatings cover the South of England and UK-wide for commercial projects. Find your nearest coverage area and book a free survey today.
+Areas We Cover
+Sparta Coatings are based in the South of England and provide professional spray coating services across a wide geographic area — covering Hampshire, West Sussex, East Sussex, Surrey, Dorset, Wiltshire, Berkshire, Kent, and the wider South East for all residential and commercial projects. For large commercial, industrial, and cladding projects, we operate UK-wide.
+
+Not sure if we cover your area? Call us or use the contact form — if we can get to you, we will.
+
+[Get a Free Quote] [Call Us Now]
+
+Our Primary Coverage Areas
+Hampshire
+Our home county and primary operational base. We cover the entire county for all residential and commercial services, including:
+
+Southampton · Portsmouth · Winchester · Eastleigh · Basingstoke · Andover · Romsey · Fareham · Gosport · Havant · Waterlooville · Petersfield · Alton · Fleet · Farnborough · Hedge End · Chandler's Ford · Totton · Ringwood · New Milton · Lymington · Fordingbridge · Bordon
+
+West Sussex
+Full county coverage for all residential and commercial services:
+
+Chichester · Worthing · Crawley · Horsham · Bognor Regis · Littlehampton · Shoreham-by-Sea · Burgess Hill · Haywards Heath · East Grinstead · Midhurst · Petworth · Arundel · Selsey · Southwick · Lancing · Steyning · Billingshurst · Pulborough · Storrington
+
+East Sussex
+Full coverage including:
+
+Brighton · Hove · Eastbourne · Hastings · Lewes · Bexhill-on-Sea · Newhaven · Seaford · Uckfield · Crowborough · Hailsham · Heathfield · Battle · Rye · Winchelsea · Wadhurst · Maresfield · Ringmer · Peacehaven
+
+Surrey
+Full county coverage:
+
+Guildford · Woking · Reigate · Redhill · Epsom · Leatherhead · Dorking · Farnham · Haslemere · Godalming · Camberley · Weybridge · Esher · Walton-on-Thames · Cobham · Staines · Egham · Virginia Water · Caterham · Oxted · Lingfield
+
+Dorset
+Full coverage:
+
+Bournemouth · Poole · Christchurch · Weymouth · Dorchester · Wimborne Minster · Ferndown · Verwood · Blandford Forum · Sherborne · Bridport · Swanage · Wareham · Gillingham
+
+Berkshire
+Full coverage:
+
+Reading · Slough · Windsor · Maidenhead · Bracknell · Wokingham · Newbury · Thatcham · Sandhurst · Crowthorne · Ascot · Hungerford
+
+Wiltshire
+Full coverage:
+
+Salisbury · Swindon · Chippenham · Trowbridge · Devizes · Marlborough · Warminster · Amesbury · Calne · Melksham · Corsham · Bradford on Avon · Tidworth
+
+Kent
+Full coverage:
+
+Maidstone · Canterbury · Tunbridge Wells · Folkestone · Dover · Ashford · Sittingbourne · Gillingham · Chatham · Rochester · Faversham · Sevenoaks · Tonbridge · Margate · Ramsgate · Whitstable · Herne Bay · Deal · Sandwich
+
+London
+Full commercial and large residential coverage across all London boroughs:
+
+City of London · Westminster · Kensington & Chelsea · Hammersmith · Wandsworth · Lambeth · Southwark · Greenwich · Lewisham · Croydon · Bromley · Bexley · Havering · Barking & Dagenham · Tower Hamlets · Hackney · Islington · Camden · Brent · Ealing · Hounslow · Richmond · Kingston · Merton
+
+UK-Wide Commercial & Industrial Coverage
+For commercial cladding, metal roof coating, warehouse spraying, structural steelwork, and large industrial projects, Sparta Coatings operate nationwide. We have completed projects across:
+
+South West — Bristol, Bath, Exeter, Plymouth, Swindon, Gloucester
+
+South East — All counties including London, Kent, Surrey, Sussex, Hampshire
+
+Midlands — Birmingham, Coventry, Leicester, Nottingham, Derby
+
+North West — Manchester, Liverpool, Preston, Blackpool
+
+North East — Leeds, Sheffield, Hull, Newcastle, Sunderland
+
+East of England — Norwich, Ipswich, Cambridge, Peterborough
+
+Wales — Cardiff, Swansea, Newport
+
+
+Large commercial project outside our residential zone? Contact us — if we can get to you, we will.
+
+How Far Do We Travel?
+For residential projects (kitchens, windows, doors, garages, fences), we typically work within approximately 90 minutes of our base in Hampshire — covering Hampshire, West Sussex, East Sussex, Surrey, Dorset, Wiltshire, Berkshire, and Kent.
+
+For commercial and industrial projects (cladding, metal roofs, warehouses, steelwork, shop fronts), we operate UK-wide and will travel anywhere in mainland England, Scotland, and Wales for the right project.
+
+Not Sure If We Cover Your Area?
+The quickest way to find out is to simply get in touch. We'll be honest about whether we can take on your project and, if we can't, we'll do our best to point you in the right direction.
+
+[Submit Your Postcode & Project Details →]
+[Call Us Now]
+
+LocalBusiness Schema (Multi-Area)
+json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sparta Coatings",
+  "url": "https://www.spartacoatings.co.uk",
+  "areaServed": [
+    {"@type": "AdministrativeArea", "name": "Hampshire"},
+    {"@type": "AdministrativeArea", "name": "West Sussex"},
+    {"@type": "AdministrativeArea", "name": "East Sussex"},
+    {"@type": "AdministrativeArea", "name": "Surrey"},
+    {"@type": "AdministrativeArea", "name": "Dorset"},
+    {"@type": "AdministrativeArea", "name": "Wiltshire"},
+    {"@type": "AdministrativeArea", "name": "Berkshire"},
+    {"@type": "AdministrativeArea", "name": "Kent"},
+    {"@type": "AdministrativeArea", "name": "London"},
+    {"@type": "AdministrativeArea", "name": "United Kingdom"}
+  ]
+}
+</script>
